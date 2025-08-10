@@ -71,6 +71,3 @@ The final commit history graph shows the successful merge. This proves that the 
 
 ```
 
-## Screenshot of the Terminal 
-
-![output](https://github.com/SudipSarkar1193/Digital-Nurture-4.0-JavaFSE/blob/main/Week8_Git/4.%20Git-HOL/Screenshot/Terminal_Screenshot.png?raw=true)
